@@ -1,4 +1,5 @@
 _repo: Captain-Ravenshaw-Or-The-Maid-of-Cheapside-A-Romance-of-Elizabethan-London_47738
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Pyle, Howard
@@ -7,6 +8,9 @@ contributor:
     gutenberg_agent_id: '491'
     url: http://www.gutenberg.org/2009/agents/491
     wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+covers:
+- cover_type: archival
+  image_path: 47738-h/images/cover.jpg
 creator:
   author:
     agent_name: Stephens, Robert Neilson
@@ -16,6 +20,8 @@ creator:
     gutenberg_agent_id: '2907'
     url: http://www.gutenberg.org/2009/agents/2907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47738#Captain-Ravenshaw-Or-The-Maid-of-Cheapside-A-Romance-of-Elizabethan-London
 gutenberg_issued: '2014-12-22'
 gutenberg_type: Text
 identifiers:
